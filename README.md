@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/orealba/](https://www.linkedin.com/in/orealba/)
 
-- 🎾🎬🎨 My hobbies **I love playing tennis, watching movies, traveling and reading books also I am learning to paint.**
+- 🎾🎬🎨 My hobbies: **I love playing tennis, watching movies, traveling and reading books also I am learning to paint.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
