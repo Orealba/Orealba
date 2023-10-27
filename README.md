@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orealba Soriano🐼</h1>
-<h3 align="center">😊 I am a Full-Stack developer, who graduated from 4Geeks Academy, with a background in journalism and social media. I am currently seeking new job opportunities, whether remote, hybrid, or in-person in Barcelona. I am particularly interested in frontend development. However, I am learning Python because I am planning to continue my education in backend programming languages to expand my job prospects.</h3>
+<h3 align="center">😊 I'm a Full-Stack developer and a graduate of 4Geeks Academy with a background in journalism and social media. Currently, I'm on the hunt for new job opportunities—be it remote, hybrid, or in-person in Barcelona. While I have a particular interest in frontend development, I'm also diving into Python to broaden my backend programming skills and expand my career prospects.</h3>
 
 - 🔭 I’m currently working on [Tito Free (collaborate).](https://github.com/njpa382/titofree-vite-react)
 
