@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Orealba Soriano🐼</h1>
 <h3 align="center">😊 I am a Full-Stack developer, who graduated from 4Geeks Academy, with a background in journalism and social media. I am currently seeking new job opportunities, whether remote, hybrid, or in-person in Barcelona. I am particularly interested in frontend development. However, I am learning Python because I am planning to continue my education in backend programming languages to expand my job prospects.</h3>
 
-- 🔭 I’m currently working on [Tito Free (collaborate)](https://github.com/njpa382/titofree-vite-react)
+- 🔭 I’m currently working on [Tito Free (collaborate).](https://github.com/njpa382/titofree-vite-react)
 
-- 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp for 2023**
+- 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp for 2023.**
 
-- 👯 I’m looking to collaborate on **Any opportunity**
+- 👯 I’m looking to collaborate on **Any opportunity.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Orealba](https://github.com/Orealba)
 
-- 💬 Ask me about **Javascript, React, CSS, Html, Tailwind, Python**
+- 💬 Ask me about **Javascript, React, CSS, Html, Tailwind, Python.**
 
 - 📫 How to reach me **orealbas@gmail.com**
 
